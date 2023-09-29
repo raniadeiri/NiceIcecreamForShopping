@@ -8,7 +8,6 @@ Project For Shopping Ice cream and adding items to cart with the ability to remo
 
 ## Built With
 
-You can list a the tech stack that you've used over here
 
 - [HTML]
 - [CSS]
@@ -26,7 +25,6 @@ git clone [https://github.com/raniadeiri/NiceIcecreamForShopping.git]
 
 
 ### Running
-
 
 To run the app, Open The Html File Using The Browser
 
