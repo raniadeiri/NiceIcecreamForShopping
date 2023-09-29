@@ -1,6 +1,6 @@
 # Nice Ice Cream App For Shopping Ice Cream
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![niceicecream](https://github.com/raniadeiri/NiceIcecreamForShopping/assets/61733983/1b05b08d-32fd-4874-af31-c3d295385392)
 
 ## Description
 Project For Shopping Ice cream and adding items to cart with the ability to remove it from the cart.
