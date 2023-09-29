@@ -30,4 +30,4 @@ To run the app, Open The Html File Using The Browser
 
 ## Contact
 
-[My LinkedIn page]([www.linkedin.com](https://www.linkedin.com/in/rania-deiri-368289210)https://www.linkedin.com/in/rania-deiri-368289210)
+[My LinkedIn page](https://www.linkedin.com/in/rania-deiri-368289210/)
