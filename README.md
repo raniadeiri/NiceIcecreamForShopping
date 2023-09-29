@@ -30,7 +30,4 @@ To run the app, Open The Html File Using The Browser
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
-
-
 [My LinkedIn page]([www.linkedin.com](https://www.linkedin.com/in/rania-deiri-368289210)https://www.linkedin.com/in/rania-deiri-368289210)
