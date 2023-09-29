@@ -18,8 +18,6 @@ You can list a the tech stack that you've used over here
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
-
 1. Clone the repo:
 
 ```bash
@@ -29,7 +27,6 @@ git clone [https://github.com/raniadeiri/NiceIcecreamForShopping.git]
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
 
 To run the app, Open The Html File Using The Browser
 
